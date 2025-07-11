@@ -1,0 +1,9 @@
+[submodule "yunsg"]
+	path = yunsg
+	url = https://github.com/Z2XYU/yunsg.git
+[submodule "ysc-background"]
+	path = ysc-background
+	url = https://github.com/Z2XYU/ysc-background.git
+[submodule "ysc-app"]
+	path = ysc-app
+	url = https://github.com/Z2XYU/ysc-app.git
